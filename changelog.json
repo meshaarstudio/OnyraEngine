@@ -1,0 +1,91 @@
+{
+    "AppName": "Onyra Framework",
+    "Releases": [
+        {
+            "Name": "Echo Pulse Update",
+            "Version": {
+                "Major": 1,
+                "Minor": 3,
+                "Patch": 1
+            },
+            "Date": "2025-12-01T14:25:00Z",
+            "Content": [
+                {
+                    "ContentType": "Text",
+                    "Content": "Introduces performance optimizations and new AI behavior modules."
+                },
+                {
+                    "ContentType": "Image",
+                    "Content": "Images/Update_1_1121221_1120_Preview.png"
+                }
+            ]
+        },
+        {
+            "Name": "Echo Pulse Update",
+            "Version": {
+                "Major": 1,
+                "Minor": 3,
+                "Patch": 0
+            },
+            "Date": "2025-11-01T14:25:00Z",
+            "Content": [
+                {
+                    "ContentType": "Text",
+                    "Content": "Introduces performance optimizations and new AI behavior modules."
+                },
+                {
+                    "ContentType": "Image",
+                    "Content": "Images/Update_1_3_0_Preview.png"
+                },
+                {
+                    "ContentType": "List",
+                    "Content": "Highlights",
+                    "Items": [
+                        "Improved animation blending",
+                        "Reduced network latency",
+                        "Added dynamic lighting presets"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Momentum Core Expansion",
+            "Version": {
+                "Major": 1,
+                "Minor": 2,
+                "Patch": 0
+            },
+            "Date": "2025-08-10T10:00:00Z",
+            "Content": [
+                {
+                    "ContentType": "Text",
+                    "Content": "Added modular gameplay components and API enhancements."
+                },
+                {
+                    "ContentType": "List",
+                    "Content": "Changes",
+                    "Items": [
+                        "Enhanced ability system",
+                        "Optimized asset streaming",
+                        "UI framework refactor"
+                    ]
+                }
+            ]
+        },
+        {
+            "Name": "Initial Framework Release",
+            "Version": {
+                "Major": 1,
+                "Minor": 0,
+                "Patch": 0
+            },
+            "Date": "2025-01-15T09:00:00Z",
+            "Content": [
+                {
+                    "ContentType": "Text",
+                    "Content": "Initial release of the Onyra Framework, providing base systems for versioning and modular integration."
+                }
+            ]
+        }
+    ]
+}
