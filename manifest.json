@@ -2,10 +2,10 @@
     "AppName": "Onyra Framework",
     "Releases": [
         {
-            "Name": "Echo Pulse Update",
+            "Name": "Test Update",
             "Version": {
                 "Major": 1,
-                "Minor": 3,
+                "Minor": 4,
                 "Patch": 1
             },
             "Date": "2025-12-01T14:25:00Z",
